@@ -5,7 +5,7 @@ I will use this week to familiarize myself with the space of Cybersecurity. Lear
 
 ## Day 1 | 🕑 Roughly 2 Hours
 
-1. Start TryHackMe Pre-Security Path
+1. Start TryHackMe [Pre-Security Path](https://tryhackme.com/path/outline/presecurity)
 2. Completed Offensive Security Intro (Had to "hack" into a bank website that should not be able to be accessed by the public, and send money to an account.)
 3. Completed Defensive Security Intro (Had to Learn about defensive security and Identify a malicious IP adress and add it to the firewall to block it.)
 4. Completed Careers in Cyber Info (The Red Team role struck my interest.)
