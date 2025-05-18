@@ -4,7 +4,6 @@ This is my first week doing anything cyber security related. I already have a go
 I will use this week to familiarize myself with the space of Cybersecurity. Learning what it is about, what I can do with it, and if I would even like to do it in the first place.
 
 ## Day 1 | 🕑 Roughly 2 Hours
-## Day 1 Activities | 🕑 Roughly 2 Hours
 
 1. Start TryHackMe Pre-Security Path
 2. Completed Offensive Security Intro (Had to "hack" into a bank website that should not be able to be accessed by the public, and send money to an account.)
