@@ -15,9 +15,9 @@ I will use this week to familiarize myself with the space of Cybersecurity. Lear
 
 > Done all available free courses[^1] on TryHackMe. I'm not sure if I want to spend the 126€/Year just yet. I'd like to be more convinced to go on this entire journey before I start paying money for it.
 
-6. Started [Over The Wire Wargames (Bandit)](https://overthewire.org/wargames/bandit/) to learn more about linux commands and environments. Completed the first 7 Tasks.
+- Started [Over The Wire Wargames (Bandit)](https://overthewire.org/wargames/bandit/) to learn more about linux commands and environments. Completed the first 7 Tasks.
 
-     - Using Ubuntu with WSL
+     Using Ubuntu with WSL
 
 [^1] The Current (18.5.25) Free courses are:
      1. Offensive Security Intro

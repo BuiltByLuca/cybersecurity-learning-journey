@@ -63,7 +63,7 @@ cat ./"spaces in this filename"
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 ```
 
-*(I didn't do any research, i just guessed "" and it worked. might not always work in the future)*
+(I didn't do any research, i just guessed "" and it worked. might not always work in the future)
 
 ### Level 3 → Level 4 🕑2min
 
