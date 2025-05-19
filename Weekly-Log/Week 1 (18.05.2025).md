@@ -19,6 +19,10 @@ I will use this week to familiarize myself with the space of Cybersecurity. Lear
 
      Using Ubuntu with WSL
 
+## Day 2 | 🕑 Roughly 4 Hours
+
+Just did a bunch more OverTheWire Bandit. Honestly it was really fun, but then level 12 or 13 came (I cant remember) and from then on out it just became extremly difficult to figure things out on my own. Sure I was able to Use outside sources to figure everything ouut, but no wonder I beat a riddle if I have the answers right in front of me. Kinda feels like cheating and not learning.. altough i think i did still learn.
+
 [^1] The Current (18.5.25) Free courses are:
      1. Offensive Security Intro
      2. Defensive Security Intro
