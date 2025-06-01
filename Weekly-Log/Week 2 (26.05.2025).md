@@ -32,3 +32,17 @@ For this week though, If they have enough courses, I will continue with hacktheb
 - no one will ever be able to question your success if you: Decide on the goal defined in detail that you really want to achieve from your heart, and that will make you happy consciously and subconsciously.
 - After a feww hours of this course and getting to the third to last page of "learning Process" in the "Information Security Foundations" Path, I have to say that this is something that I really did not expect at all. The depth of psychological talks may be something that I get explained by a therapist, but not by a website about Cybersecurity. It is, though, very very welcome as I love diving into topics like this. They encurage my thinking and creative thinking positively and make me feel very productive in life. These are lessons that could not be more applicable throughout one's entire lifetime. Anyways after about 5 ish hours I am quite dranied and unable to focus on what "questioning" is trying to convey. I will continue this the next time.
 - Learning more about asking questions, what questions are and how to ask the "right" ones. (Written in personal notes, not public.)
+
+## HTB LABS
+
+For the last day of the week I completed Hackthebox Startingpiont challanges.
+Throughout this I completed:
+
+ 1. Meow
+ 2. Fawn
+ 3. Dancing
+ 4. Redeemer
+ 5. Appointment
+ 6. Sequel
+
+ With most of it being reading the guide and learning from that.
